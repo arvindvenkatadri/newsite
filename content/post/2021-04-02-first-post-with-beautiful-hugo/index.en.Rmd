@@ -1,0 +1,21 @@
+---
+title: First Post with Beautiful Hugo
+author: Arvind Venkatadri
+date: '2021-04-02'
+slug: [trial]
+categories:
+  - R
+tags:
+  - R Markdown
+type: ''
+subtitle: ''
+image: ''
+---
+
+# Introduction
+
+I am trying a new post from RStudio with a website based on the Beautiful Hugo theme.
+
+`r emo::ji("smile")`
+
+
