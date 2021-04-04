@@ -9,8 +9,8 @@ My name is Arvind Venkatadri.
 I am a Faculty Member at the Srishti Manipal Institute for Art, Design, and Technology, Bangalore India. 
 
 My teaching interests are in:
-- TRIZ
-- Computation in R
-- Complexity Science
-- Embedded Electronics
-- Reading and Writing
+- TRIZ `r emo::ji("paperclip")`  
+- Computation in R `r emo::ji("coder")`  
+- Complexity Science  
+- Embedded Electronics  
+- Reading and Writing  `r emo::ji("literature")`  
